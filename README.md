@@ -1,6 +1,8 @@
 # CocoaHeadsNL presentation, April 15
 Presentation on FRP in ReactiveCocoa, given to CocoaHeadsNL 21-Apr-15
 
+[Presentation on SlideDeck](https://speakerdeck.com/cocoaheadsnl/introduction-to-functional-reactive-programming-with-reactivecocoa)
+
 [Download Presentation as Keynote](https://github.com/iandundas/reactivecocoa-presentation/blob/master/Reactivecocoa-cocoaheads.key?raw=true)
 
 ## Great Resources:
