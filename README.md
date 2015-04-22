@@ -8,7 +8,7 @@ Presentation on FRP in ReactiveCocoa, given to CocoaHeadsNL 21-Apr-15
 
 [Download Presentation as Keynote](https://github.com/iandundas/reactivecocoa-presentation/blob/master/Reactivecocoa-cocoaheads.key?raw=true)
 
-Contact me on Twitter [@id](http://twitter.com/id) or at my [homepage](http://iandundas.co.uk).
+Contact me on Twitter [@id](http://twitter.com/id).
 
 ## Great Resources:
 ### Talks
